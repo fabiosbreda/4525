@@ -4,3 +4,4 @@ Este repositório fornece os arquivos necessários para o laboratório do curso 
 
 Para executar as máquinas utilize o comando
 > vagrant up
+Aula dia 2
